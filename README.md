@@ -1,7 +1,7 @@
 ###  👋 一个做过DevOps、直播、支付以及正在做游戏的Java选手
 <br />
 
-- 🔭 区块链太好玩了，熟悉eth/bsc/herco/trx/eos/wax等区块链... 有偿开发，需要可联系💬
+- 🔭 区块链太好玩了，熟悉eth/bsc/heco/trx/eos/wax等区块链... 有偿开发，需要可联系💬
 - 🌱 我的博客[Jiacan's blog](http://liaojiacan.me) , 好久没更新了, 最近拥抱Notion去了😄
 
 <!--
